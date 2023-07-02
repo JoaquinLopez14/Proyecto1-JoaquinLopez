@@ -1,0 +1,10 @@
+API RESTful Proyecto Integrador 1 - Joaquin Lopez
+
+Para probar los metodos PUT Y DELETE tuve que modificar las frutas, el archivo JSON esta cambiado por eso.
+
+Con el metodo DELETE borre las frutas con ID: 11, 15 y 17.
+Con el metodo PUT modifique el NOMBRE de las frutas con ID: 2, 3 y 4.
+
+Espero que los codigos sean legibles y esten identados correctamente.
+
+Saludos.
